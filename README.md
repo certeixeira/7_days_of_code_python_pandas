@@ -26,7 +26,7 @@ Para utilizar este projeto, siga os passos abaixo:
    git clone https://github.com/seu-usuario/7-days-of-code-python-pandas.git
    ```
 
-2. Instale as dependências necessárias, incluindo Python, Pandas e Jupyter Notebook.
+2. Instale as dependências necessárias, incluindo Python, Pandas e Jupyter Notebook (ou carregue diretamente no google colab).
 
 3. Abra os notebooks Jupyter fornecidos para visualizar e executar as análises realizadas em cada dia do desafio.
 
