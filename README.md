@@ -1,36 +1,31 @@
-# 7 Dias de Código - Python & Pandas
+### Pré-requisitos
 
-Este repositório abriga o projeto desenvolvido durante o desafio "7 Dias de Código", onde o foco foi a utilização da biblioteca Pandas em Python para análise de dados.
+Para executar este projeto em sua máquina, é necessário ter as seguintes ferramentas instaladas:
 
-## Objetivo
-
-O objetivo primordial deste desafio foi aprimorar as habilidades de manipulação e análise de dados utilizando Python e Pandas. Ao longo de sete dias consecutivos, foram propostas tarefas diárias que simulam situações reais do mundo da ciência de dados, visando um desenvolvimento gradual das habilidades.
-
-## Tecnologias Utilizadas
-
-- Python
-- Pandas
+- Python 3.6 ou superior
 - Jupyter Notebook
+- Bibliotecas Python: pandas, numpy, matplotlib, seaborn
 
-## Desafios Diários
+### Estrutura do Repositório
 
-- **Dia 1**: Unificação de múltiplos conjuntos de dados em um único DataFrame.
-- **Dia 2**: Limpeza e preparação dos dados para análise.
+O repositório contém o seguinte arquivo principal:
 
-## Como Utilizar
+- `analise_emprestimos_de_livros.ipynb`: Este é o Jupyter Notebook onde toda a análise é realizada.
 
-Para utilizar este projeto, siga os passos abaixo:
+### Análise
 
-1. Clone o repositório para sua máquina local utilizando o seguinte comando:
-   ```
-   git clone https://github.com/seu-usuario/7-days-of-code-python-pandas.git
-   ```
+A análise está organizada em várias etapas:
 
-2. Instale as dependências necessárias, incluindo Python, Pandas e Jupyter Notebook (ou carregue diretamente no google colab).
+1. **Carregamento dos dados**: Os dados são carregados em um DataFrame do pandas para facilitar a manipulação e análise.
 
-3. Abra os notebooks Jupyter fornecidos para visualizar e executar as análises realizadas em cada dia do desafio.
+2. **Limpeza dos dados**: Realiza-se a limpeza dos dados para remover quaisquer erros ou inconsistências que possam afetar os resultados da análise.
 
-Sinta-se à vontade para explorar os notebooks, experimentar o código e expandir seu conhecimento em manipulação de dados com Pandas!
+3. **Análise exploratória**: Os dados são explorados para identificar padrões e tendências, utilizando técnicas de visualização de dados.
 
-Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato ou abrir uma issue neste repositório.
+4. **Interpretação dos resultados**: Os resultados da análise são interpretados e discutidos, fornecendo insights sobre os padrões e tendências identificados.
 
+### Conclusão
+
+Este projeto oferece uma visão abrangente dos padrões de empréstimo de livros. Através da análise dos dados, foram obtidos insights valiosos que podem ser aplicados para melhorar a gestão de empréstimos de livros.
+
+Esperamos que você ache este projeto interessante e útil. Caso tenha alguma dúvida ou sugestão, por favor, sinta-se à vontade para entrar em contato. E lembre-se, este é apenas um exemplo de README. Você pode personalizá-lo conforme necessário para se adequar ao seu projeto específico.
